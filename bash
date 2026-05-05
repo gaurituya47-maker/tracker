@@ -1,0 +1,2 @@
+flutter create finance_tracker
+cd finance_tracker
